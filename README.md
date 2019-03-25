@@ -12,5 +12,4 @@ Database details:
 ```
 user: 'root'
 password: 'password123'
-database: 'test_db'
 ```
