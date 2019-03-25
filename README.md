@@ -9,6 +9,8 @@ Contains a demo of the order form for the procurement tool
 - Use the .sql script to create a sample table for the project
 
 Database details:
-```user: 'root'
+```
+user: 'root'
 password: 'password123'
-database: 'test_db'```
+database: 'test_db'
+```
