@@ -8,7 +8,7 @@ Contains a demo of the order form for the procurement tool
 - Requires a running mySQL server
 - Use the .sql script to create a sample table for the project
 
-Database connection details:
-    `user: 'root',
-    password: 'password123',
-    database: 'test_db'`
+Database details:
+`user: 'root'`
+`password: 'password123'`
+`database: 'test_db'`
